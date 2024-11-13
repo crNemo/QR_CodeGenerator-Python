@@ -14,19 +14,23 @@ Install the module **qrcode**
   pip install qrcode
 ```
 Run the program
-
-
-
+<br>
 ## Demo
+Following **prompts** were given:
+<br>
 
 ![Terminal Screenshot](https://github.com/user-attachments/assets/5b030e81-3d33-4ac2-a5e4-adb3e127f349)
 
 <br>
-It created a new file name **github.png** <br>
+
+It created a new file name **github.png** 
+
+<br>
+
 
 ![PNG_Image](https://github.com/user-attachments/assets/d0425d75-d138-4973-ae2e-50709c14d9b8)
 
-Now if I scan the png it :
+Now if I scan the png it will show following results:
 
 ![Scanned_Screenshot](https://github.com/user-attachments/assets/2c792b8e-25e5-496f-b0f9-f0a27d3f874d)
 
